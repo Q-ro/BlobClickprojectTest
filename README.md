@@ -1,2 +1,0 @@
-# BlobClickprojectTest
-BlobClickprojectTest
